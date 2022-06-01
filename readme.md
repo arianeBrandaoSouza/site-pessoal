@@ -1,3 +1,3 @@
 # Site Pessoal Ariane
 
-Este é meu primeiro site pessoal
+Este é meu primeiro site pessoal.
